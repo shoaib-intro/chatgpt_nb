@@ -1,2 +1,2 @@
-# chatgpt_nb
-Chatbot using Jupyter Notebook
+# OrderBot
+Create an orderbot using ChatGPT Prompt
