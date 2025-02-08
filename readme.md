@@ -22,7 +22,7 @@ MCMX_END=10
 ENABLE_EMAIL_SENDING="true"
 EMAIL_LOGIN_URL="https://mail.hostinger.com/"
 EMAIL_USERNAME="info@jslogisticsolutions.com"
-EMAIL_PASSWORD="J&S.js$$$$03456"
+EMAIL_PASSWORD=
 
 2. Update the email_data.yaml file with your email template.
 
