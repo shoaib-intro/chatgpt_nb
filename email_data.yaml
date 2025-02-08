@@ -1,0 +1,19 @@
+email_template:
+  subject: "Maximize Your Trucking Profits with J&S Logistics"
+  sender: "info@jslogisticsolutions.com"
+  body: |
+    Dear {{customer_name}},  
+
+    I’m Steve from J&S Logistics, offering professional truck dispatching across the USA. We help owner-operators and fleet owners with:  
+    ✔ 24/7 Dispatch Support  
+    ✔ High-Paying Loads  
+    ✔ Route Optimization  
+    ✔ Paperwork & Compliance  
+    Let’s connect! Reply or call +1 (555) 123-4567.  
+
+    Best,  
+    Steve | J&S Logistics  
+    📧 info@jslogisticsolutions.com  
+    📞 +1 (555) 123-4567  
+    🌎 www.jslogisticsolutions.com
+    
